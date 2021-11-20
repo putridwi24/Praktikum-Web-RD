@@ -1,0 +1,15 @@
+body{
+    background: rgb(9, 9, 204);
+    font-family: sans-serif;
+    display: flex;
+    place-items: center;
+}
+.container{
+    width: 45%;
+    margin: 100px auto;
+    background:rgb(23, 111, 192);
+    padding: 10px 20px 50px 20px;
+    border-radius: 5px;
+    box-shadow:paleturquoise 15px 15px 20px 1pc;
+    align-items: center;
+}
